@@ -1,0 +1,8 @@
+* MisEnPlace-Arch
+
+This repository is to configure Arch Linux for MisEnPlace. It essentially
+installs all of the software involved in a MisEnPlace build. This includes
+installations using pacman, from the AUR and leftovers from git repositories.
+
+
+
